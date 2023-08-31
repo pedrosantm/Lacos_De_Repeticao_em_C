@@ -1,2 +1,2 @@
-# loops_em_C
-Exercícios e exemplos de uso de loops de repetição em linguagem C (while e for)
+# exercicios e exemplos de códigos simples em linguagem c
+Exercícios e exemplos de usos de diversasa ferramentas em logica simples de programação em inguagem C
